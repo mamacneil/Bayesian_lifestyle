@@ -6,7 +6,7 @@ Material for this tutorial have been cribbed from Chris Fonnesbeck and Colin Car
 
 ## Material for course on Bayesian Computation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/Bayes_Computing_Course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mamacneil/Bayesian_lifestyle/master)
 
 ## Setup
 
@@ -31,10 +31,6 @@ Then, you can start **JupyterLab** to access the materials:
     jupyter lab
 
 The binder link above should also provide a working environment.
-
-## Pre-course Work
-
-In advance of the course, we would like attendees to complete a short homework notebook that will ensure everyone has the requisite baseline knowledge. You can find this Jupyter notebook in the `/notebooks` subdirectory (under `Section0-Pre_Work.ipynb`). There is no need to hand this in to anyone, but please reach out if you have difficulty with any of the problems (or with setting up your computing environment) by creating an [issue](https://github.com/fonnesbeck/Bayes_Computing_Course/issues) in this repository, or by emailing.
 
 ## Course Outline
 
@@ -64,12 +60,8 @@ This is subject to change. I will seek input and try to accommodate digression w
     - Posterior predictive checks
     - Using the model
 
-4. **Modern Markov chain Monte Carlo (Optional)** 1:00pm - 4:00pm
-    - Probability density functions, inverse CDF sampling
-    - Rejection sampling
-    - MCMC basics
-    - Metropolis-Hastings samplers
-    - Gibbs samplers
-    - Hamiltonian Monte Carlo
-    - Introduction to diagnostics
+4. **Your data** 1:00pm - 4:00pm
+    - Questions relating to your own data
+    - How to get started with your unique problem
+    - Resources
 
